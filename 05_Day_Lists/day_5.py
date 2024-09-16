@@ -113,7 +113,7 @@ fruits = ['banana', 'orange', 'mango', 'lemon']
 fruits.clear()     
 print(fruits)       # []
 
-# copying a lits
+# copying a list
 
 fruits = ['banana', 'orange', 'mango', 'lemon']
 fruits_copy = fruits.copy()     
